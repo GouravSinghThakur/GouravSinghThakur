@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>👋 Hi, I’m Gourav Singh Thakur
+👋 Hi, I’m Gourav Singh Thakur
 🎓 Data Scientist passionate about transforming data into intelligent systems
 📊 Strong background in Data Analytics & Statistical Modeling
 🤖 Experienced in Machine Learning & Deep Learning
@@ -7,7 +7,7 @@
 🗣️ Skilled in Natural Language Processing (Transformers, LLMs, fine-tuning, RAG)
 🧠 Focused on research-driven AI with real-world impact
 🛠️ Tech: Python | Scikit-learn | PyTorch | TensorFlow | OpenCV | NLP | Transformers | langchain
-🚀 Interested in building scalable, production-ready AI systems.<br><br>
+🚀 Interested in building scalable, production-ready AI systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-singh-thakur-425186290/)
