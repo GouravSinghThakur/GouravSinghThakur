@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I'm **Gourav Singh Thakur** — a **Data Scientist** passionate about turning data into intelligent solutions.  <br>I work across 📊 Data Analytics, 🤖 Machine Learning, 👁️ Computer Vision, and 🗣️ NLP, building research-driven AI systems with real-world impact.  <br><br>🛠️ Tech: Python | Scikit-learn | PyTorch | TensorFlow | OpenCV | Transformers  <br>
+<br><br>Hi, I'm **Gourav Singh Thakur** — a **Data Scientist** passionate about turning data into intelligent solutions.  <br>I work across 📊 Data Analytics, 🤖 Machine Learning, 👁️ Computer Vision, and 🗣️ NLP, building research-driven AI systems with real-world impact.  <br><br>🛠️ Tech: Python | Scikit-learn | PyTorch | TensorFlow | OpenCV | NLP | Transformers | langchain <br>
 
 
 ## 🌐 Socials:
