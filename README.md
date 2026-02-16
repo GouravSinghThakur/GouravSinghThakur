@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **Gourav Singh Thakur ** 
+👋 Hi, I’m **Gourav Singh Thakur**
 
 🎓 **Data Scientist** passionate about transforming data into intelligent systems  
 
