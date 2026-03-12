@@ -13,7 +13,7 @@
 
 🧠 Focused on research-driven AI with real-world impact  
 
-🛠️ Tech: **Python | Scikit-learn | PyTorch | TensorFlow | OpenCV | NLP | Transformers | LangChain**  
+🛠️ Tech: **Python | Pandas | Scikit-learn | PyTorch | TensorFlow | OpenCV | NLP | Transformers | LangChain**  
 
 🚀 Interested in building scalable, production-ready AI systems   
 
