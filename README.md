@@ -57,6 +57,4 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GouravSinghThakur&show_icons=true&theme=dracula&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=GouravSinghThakur&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSinghThakur&layout=compact&theme=dracula)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
