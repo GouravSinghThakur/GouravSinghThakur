@@ -54,11 +54,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
 # 📊 GitHub Stats:
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GouravSinghThakur&show_icons=true&theme=dracula)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GouravSinghThakur&theme=dracula)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravSinghThakur&layout=compact&theme=dracula)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
