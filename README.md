@@ -1,21 +1,20 @@
-# 💫 About Me:
-👋 Hi, I’m **Gourav Singh Thakur**
+💫 About Me
 
-🎓 **Data Scientist** passionate about transforming data into intelligent systems  
+👋 Hi, I’m Gourav Singh Thakur
 
-🤖 Strong background in Machine Learning & Generative AI  
+🎓 Data Scientist passionate about transforming data into intelligent systems
 
-📊 Experienced in data analytics, feature engineering & statistical modeling  
+🤖 Strong background in Machine Learning, Deep Learning, and Generative AI
 
-👁️ Hands-on with Computer Vision (CNNs, image processing, end-to-end CV pipelines)  
+📊 Experienced in Data Analytics, Feature Engineering, and Statistical Modeling
 
-🗣️ Skilled in Natural Language Processing (Transformers, LLMs, fine-tuning, RAG)  
+👁️ Hands-on with Computer Vision (CNNs, image processing, end-to-end CV pipelines)
 
-🧠 Focused on research-driven AI with real-world impact  
+🗣️ Skilled in Natural Language Processing (Transformers, LLMs, Fine-tuning, RAG systems)
 
-🛠️ Tech: **Python | Pandas | Scikit-learn | PyTorch | TensorFlow | OpenCV | NLP | Transformers | LangChain**  
+🧠 Focused on research-driven AI with real-world impact
 
-🚀 Interested in building scalable, production-ready AI systems   
+🚀 Interested in building scalable, production-ready AI systems 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-singh-thakur-425186290/)
