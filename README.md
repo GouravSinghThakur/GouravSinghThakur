@@ -1,4 +1,3 @@
-💫 About Me
 
 👋 Hi, I’m Gourav Singh Thakur
 
