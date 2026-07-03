@@ -3,17 +3,11 @@
 
 🎓 Data Scientist passionate about transforming data into intelligent systems
 
-🤖 Strong background in Machine Learning, Deep Learning, and Generative AI
+🤖 Strong background in Machine Learning, Deep Learning, LLMs
 
 📊 Experienced in Data Analytics, Feature Engineering, and Statistical Modeling
 
-👁️ Hands-on with Computer Vision (CNNs, image processing, end-to-end CV pipelines)
-
-🗣️ Skilled in Natural Language Processing (Transformers, LLMs, Fine-tuning, RAG systems)
-
 🧠 Focused on research-driven AI with real-world impact
-
-🚀 Interested in building scalable, production-ready AI systems 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-singh-thakur-425186290/)
